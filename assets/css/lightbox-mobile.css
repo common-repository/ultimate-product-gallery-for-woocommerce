@@ -1,0 +1,99 @@
+.upgfw-lightbox-container .upgfw-header .upgfw-button.upgfw-back-button {
+	float: right;
+	margin-right: 15px;
+}
+
+/* lightbox thumbnails */
+
+.upgfw-lightbox-container .upgfw-lightbox-thumbnails {
+	height: 80px;
+	position: absolute;
+	right: 10px;
+	left: 10px;
+	z-index: 2;
+	bottom: 10px;
+	overflow-x: auto;
+	white-space: nowrap;
+}
+
+.upgfw-lightbox-container .upgfw-lightbox-thumbnails .swiper-container {
+	width: 100%;
+	height: 100%;
+}
+
+.upgfw-lightbox-container .upgfw-lightbox-thumbnails .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+}
+
+.upgfw-lightbox-container .upgfw-lightbox-thumbnails div.swiper-slide {
+/*
+	display: inline-block;
+	padding: 0 10px;
+	*/
+}
+
+.upgfw-lightbox-container .upgfw-lightbox-thumbnails div.swiper-slide img {
+
+	max-width: 60px;
+
+}
+
+
+/* lightbox content */
+
+.upgfw-lightbox-container .upgfw-lightbox-content {
+	height: calc(100% - 150px);
+	position: relative;
+}
+
+.upgfw-lightbox-container .upgfw-lightbox-content>li {
+	background: #fff;
+	opacity: 0;
+	text-align: center;
+	height: 100%;
+	position: relative;
+	visibility: hidden;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	transition: visibility 500ms ease, opacity 500ms ease;
+	-webkit-transition: visibility 500ms ease, opacity 500ms ease;
+
+}
+
+.upgfw-lightbox-container .upgfw-lightbox-content>li:first-child {
+	transition: none!important;
+	-webkit-transition: none!important
+}
+
+.upgfw-lightbox-container .upgfw-lightbox-content>li.active {
+	opacity: 1;
+	visibility: visible
+}
+
+.upgfw-lightbox-container .upgfw-middle-table-cell {
+	margin: auto;
+	height: 100%;
+}
+
+.upgfw-lightbox-container .upgfw-middle-table-cell img {
+
+}

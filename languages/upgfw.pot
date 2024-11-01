@@ -1,0 +1,439 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Product Gallery For WooCommerce\n"
+"POT-Creation-Date: 2018-12-01 00:01+0330\n"
+"PO-Revision-Date: 2018-12-01 00:02+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: languages\n"
+"X-Poedit-SearchPathExcluded-2: Licensing\n"
+"X-Poedit-SearchPathExcluded-3: vafpress-framework\n"
+
+#: admin/option/option.php:4
+msgid "Ultimate Product Gallery For WooCommerce"
+msgstr ""
+
+#: admin/option/option.php:8
+msgid "Desktop"
+msgstr ""
+
+#: admin/option/option.php:14 admin/option/option.php:550
+msgid "General"
+msgstr ""
+
+#: admin/option/option.php:19 admin/option/option.php:555
+msgid "Active"
+msgstr ""
+
+#: admin/option/option.php:20
+msgid "Enable desktop mode"
+msgstr ""
+
+#: admin/option/option.php:28
+msgid "Product Page Settings"
+msgstr ""
+
+#: admin/option/option.php:33
+msgid "Image Zoom"
+msgstr ""
+
+#: admin/option/option.php:34
+msgid "Enable zoom for product single image"
+msgstr ""
+
+#: admin/option/option.php:40
+msgid "Zoom Window Position"
+msgstr ""
+
+#: admin/option/option.php:55
+msgid "Zoom Window Width"
+msgstr ""
+
+#: admin/option/option.php:70
+msgid "Zoom Window Height"
+msgstr ""
+
+#: admin/option/option.php:85
+msgid "Zoom Window Border Size"
+msgstr ""
+
+#: admin/option/option.php:100 admin/option/option.php:375
+msgid "Mousewheel Zoom"
+msgstr ""
+
+#: admin/option/option.php:101
+msgid ""
+"Active mouse wheel zoom. <br><b style=\"color: red;\">work in PRO version</b>"
+msgstr ""
+
+#: admin/option/option.php:112 admin/option/option.php:649
+msgid "Thumbnails Number"
+msgstr ""
+
+#: admin/option/option.php:122 admin/option/option.php:659
+msgid "Space Between Thumbnail Items"
+msgstr ""
+
+#: admin/option/option.php:133 admin/option/option.php:563
+msgid "Product Page Colors"
+msgstr ""
+
+#: admin/option/option.php:139
+msgid "Zoom Window Border Color"
+msgstr ""
+
+#: admin/option/option.php:148
+msgid "Thumbnails Background Color"
+msgstr ""
+
+#: admin/option/option.php:156
+msgid "Dotst Icon Color"
+msgstr ""
+
+#: admin/option/option.php:165 admin/option/option.php:585
+msgid "Lightbox Settings"
+msgstr ""
+
+#: admin/option/option.php:171 admin/option/option.php:590
+msgid "Size"
+msgstr ""
+
+#: admin/option/option.php:175 admin/option/option.php:594
+msgid "Full - Without Overlay"
+msgstr ""
+
+#: admin/option/option.php:179 admin/option/option.php:598
+msgid "Large"
+msgstr ""
+
+#: admin/option/option.php:183
+msgid "Medium"
+msgstr ""
+
+#: admin/option/option.php:187
+msgid "Small"
+msgstr ""
+
+#: admin/option/option.php:197
+msgid "Scrollbar Theme"
+msgstr ""
+
+#: admin/option/option.php:201
+msgid "Dark 1"
+msgstr ""
+
+#: admin/option/option.php:205
+msgid "Dark 2 - (work in PRO version)"
+msgstr ""
+
+#: admin/option/option.php:209
+msgid "Dark 3 - (work in PRO version)"
+msgstr ""
+
+#: admin/option/option.php:213
+msgid "Dark 4 - (work in PRO version)"
+msgstr ""
+
+#: admin/option/option.php:217
+msgid "Dark Thin - (work in PRO version)"
+msgstr ""
+
+#: admin/option/option.php:221
+msgid "Dark Thick - (work in PRO version)"
+msgstr ""
+
+#: admin/option/option.php:225
+msgid "Dark Inset 1 - (work in PRO version)"
+msgstr ""
+
+#: admin/option/option.php:229
+msgid "Dark Inset 2 - (work in PRO version)"
+msgstr ""
+
+#: admin/option/option.php:233
+msgid "Dark Inset 3 - (work in PRO version)"
+msgstr ""
+
+#: admin/option/option.php:237
+msgid "Dark Rounded - (work in PRO version)"
+msgstr ""
+
+#: admin/option/option.php:241
+msgid "Dark Rounded Dots - (work in PRO version)"
+msgstr ""
+
+#: admin/option/option.php:245
+msgid "Dark Minimal Dark - (work in PRO version)"
+msgstr ""
+
+#: admin/option/option.php:255
+msgid "Scroll Buttons"
+msgstr ""
+
+#: admin/option/option.php:256
+msgid "Show buttons before and after scroll"
+msgstr ""
+
+#: admin/option/option.php:266 admin/option/option.php:608
+msgid "Header"
+msgstr ""
+
+#: admin/option/option.php:267 admin/option/option.php:609
+msgid "Show lightbox header items"
+msgstr ""
+
+#: admin/option/option.php:274 admin/option/option.php:615
+msgid "Product Name"
+msgstr ""
+
+#: admin/option/option.php:275 admin/option/option.php:616
+msgid "Show product name in lightbox header"
+msgstr ""
+
+#: admin/option/option.php:286
+msgid "Add To Cart"
+msgstr ""
+
+#: admin/option/option.php:287
+msgid ""
+"Show add to cart button in lightbox header <br><b style=\"color: red;\">work "
+"in PRO version</b>"
+msgstr ""
+
+#: admin/option/option.php:299
+msgid "Zoom Mode"
+msgstr ""
+
+#: admin/option/option.php:303
+msgid "None"
+msgstr ""
+
+#: admin/option/option.php:307
+msgid "Lens"
+msgstr ""
+
+#: admin/option/option.php:311
+msgid "Fullscreen Zoom - (work in PRO version)"
+msgstr ""
+
+#: admin/option/option.php:322
+msgid "Lens Shape"
+msgstr ""
+
+#: admin/option/option.php:326
+msgid "Square"
+msgstr ""
+
+#: admin/option/option.php:330
+msgid "Round"
+msgstr ""
+
+#: admin/option/option.php:344
+msgid "Lens Size"
+msgstr ""
+
+#: admin/option/option.php:359
+msgid "Lens Border Size"
+msgstr ""
+
+#: admin/option/option.php:376 admin/option/option.php:464
+msgid "<b style=\"color: red;\">work in PRO version</b>"
+msgstr ""
+
+#: admin/option/option.php:387
+msgid "Thumbnails Position"
+msgstr ""
+
+#: admin/option/option.php:391
+msgid "Left"
+msgstr ""
+
+#: admin/option/option.php:395
+msgid "Right - (work in PRO version)"
+msgstr ""
+
+#: admin/option/option.php:405
+msgid "Thumbnails Style"
+msgstr ""
+
+#: admin/option/option.php:409
+msgid "Without Style"
+msgstr ""
+
+#: admin/option/option.php:413
+msgid "Style 1"
+msgstr ""
+
+#: admin/option/option.php:417
+msgid "Style 2"
+msgstr ""
+
+#: admin/option/option.php:428 admin/option/option.php:677
+msgid "Lightbox Colors"
+msgstr ""
+
+#: admin/option/option.php:433 admin/option/option.php:682
+msgid "Lightbox Overlay Color"
+msgstr ""
+
+#: admin/option/option.php:443 admin/option/option.php:690
+msgid "Lightbox Header Background Color"
+msgstr ""
+
+#: admin/option/option.php:453 admin/option/option.php:700
+msgid "Product Name Color"
+msgstr ""
+
+#: admin/option/option.php:463
+msgid "Add To Cart Button Background Color"
+msgstr ""
+
+#: admin/option/option.php:473
+msgid ""
+"Add To Cart Button Background Hover Color <br><b style=\"color: red;\">work "
+"in PRO version</b>"
+msgstr ""
+
+#: admin/option/option.php:483
+msgid ""
+"Add To Cart Button Color <br><b style=\"color: red;\">work in PRO version</b>"
+msgstr ""
+
+#: admin/option/option.php:493
+msgid ""
+"Add To Cart Button Hover Color <br><b style=\"color: red;\">work in PRO "
+"version</b>"
+msgstr ""
+
+#: admin/option/option.php:503
+msgid "Lens Border Color"
+msgstr ""
+
+#: admin/option/option.php:512
+msgid "Thumbnails Border Color"
+msgstr ""
+
+#: admin/option/option.php:523 admin/option/option.php:530
+#: admin/option/option.php:537 admin/option/option.php:752
+#: admin/option/option.php:759 admin/option/option.php:766
+msgid " "
+msgstr ""
+
+#: admin/option/option.php:524
+msgid ""
+"<p style=\"font-size:17px\">The premium version of this plugin is available. "
+"<a target=\"_blank\" href=\"http://www.barfaraz.com/plugin/ultimate-product-"
+"gallery-for-woocommerce/\">Buy Now</a></p>"
+msgstr ""
+
+#: admin/option/option.php:531 admin/option/option.php:760
+msgid ""
+"<p style=\"font-size:15px\">For Plugin Support  <a target=\"_blank\" href="
+"\"https://wordpress.org/support/plugin/ultimate-product-gallery-for-"
+"woocommerce\">Click Here</a></p>"
+msgstr ""
+
+#: admin/option/option.php:538 admin/option/option.php:767
+msgid ""
+"<p style=\"font-size:15px\">Please write a review on <a target=\"_blank\" "
+"href=\"https://wordpress.org/support/plugin/ultimate-product-gallery-for-"
+"woocommerce/reviews/#new-post\">wordpress.org</a>  if you found this plugin "
+"helpful,Thanks.</p>"
+msgstr ""
+
+#: admin/option/option.php:544
+msgid "Mobile & Tablet"
+msgstr ""
+
+#: admin/option/option.php:556
+msgid "Enable mobile and tablet mode"
+msgstr ""
+
+#: admin/option/option.php:568
+msgid "Bullet Background"
+msgstr ""
+
+#: admin/option/option.php:576
+msgid "Active Bullet Background"
+msgstr ""
+
+#: admin/option/option.php:627
+msgid "Back Button"
+msgstr ""
+
+#: admin/option/option.php:628
+msgid "Show back button in lightbox header"
+msgstr ""
+
+#: admin/option/option.php:638
+msgid "Back Button Text"
+msgstr ""
+
+#: admin/option/option.php:640 classes/upgfw.php:46
+msgid "Back"
+msgstr ""
+
+#: admin/option/option.php:669
+msgid "Centered Slides"
+msgstr ""
+
+#: admin/option/option.php:670
+msgid "Centered slides in lightbox header"
+msgstr ""
+
+#: admin/option/option.php:710
+msgid "Back Button Background Color"
+msgstr ""
+
+#: admin/option/option.php:720
+msgid "Back Button Background Hover Color"
+msgstr ""
+
+#: admin/option/option.php:730
+msgid "Back Button Color"
+msgstr ""
+
+#: admin/option/option.php:740
+msgid "Back Button Hover Color"
+msgstr ""
+
+#: admin/option/option.php:753
+msgid ""
+"<p style=\"font-size:17px\">The premium version of this plugin is available. "
+"<a target=\"_blank\" href=\"http://www.barfaraz.com/plugin/ultimate-product-"
+"gallery-for-woocommerce\">Buy Now</a></p>"
+msgstr ""
+
+#: admin/option/option.php:773
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/option/option.php:784
+msgid "Custom CSS "
+msgstr ""
+
+#: includes/product-image.php:45
+msgid "Placeholder"
+msgstr ""
+
+#: includes/product-thumbnails.php:72
+msgid "More"
+msgstr ""
+
+#: ultimate-product-gallery-for-woocommerce.php:52
+msgid "Ultimate Product Gallery for WooCommerce"
+msgstr ""
+
+#: ultimate-product-gallery-for-woocommerce.php:53
+msgid "Ultimate Product Gallery"
+msgstr ""

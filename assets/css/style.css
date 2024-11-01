@@ -1,0 +1,29 @@
+.upgfw-image-gallery ul {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	flex-direction: row;
+	margin: -5px;
+	list-style: none;
+}
+
+.upgfw-image-gallery ul li {
+	flex: 0 1 25%;
+	margin: 5px;
+	text-align: center;
+}
+
+.upgfw-image-gallery ul li a {
+	border: 0;
+}
+
+.upgfw-image-gallery ul li a img {
+	vertical-align: top;
+}
+
+.upgfw-image-gallery ul li a svg {
+	fill: #d9d9d9;
+	max-width: 24px;
+	max-height: 24px;
+	align-self: center
+}
